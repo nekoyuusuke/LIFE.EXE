@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:black;">
+
+<font color="white"/>
+<center>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: red;
+}
+</style>
+</head>
+<body>
+
+<ul>
+<font color="black">
+  <li><a class="active" href="link goes here">Name1</a></li>
+  <li><a href="link goes here">name2</a></li>
+  <li><a href="link goes here">name3</a></li>
+  <li><a href="link goes here">name4</a></li>
+  <li><a href="link goes here">New</a><?li>
+<li style="float:right"><a class="active" href="#about">About</a
+</li>
+</ul>
+
+</body>
+<body>
+
+</html>

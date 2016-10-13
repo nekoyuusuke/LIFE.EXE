@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html>
 <body style="background-color:black;">
+<style>
+body 
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: times new roman;
+    font-size: 20px;
+}
+</style>
+</head>
 
 <font color="white"/>
 <center>

@@ -18,7 +18,7 @@ p {
 
 <font color="white"/>
 <center>
-<h1>This is a heading</h1>
+<h1>MINISTRY OF TRUTH</h1>
 <p>This is a paragraph.</p>
 <style>
 ul {
@@ -61,5 +61,20 @@ li a:hover {
 
 </body>
 <body>
-
+<center>
+<style>
+div {
+    background-color: lightgray;
+    width: 500px;
+    border: 5px solid white;
+    padding: 25px;
+    margin: 25px;
+    text: white;
+    text align: center ;
+   
+}
+</style>
+<div> Is this all the space being allowed here? We don't have enough money in the budget to expand yet...</div>
+<style>
 </html>
+

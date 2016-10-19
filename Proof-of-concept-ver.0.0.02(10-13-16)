@@ -19,7 +19,8 @@ p {
 <font color="white"/>
 <center>
 <h1>MINISTRY OF TRUTH</h1>
-<p> " There is no such thing as Absolute Truth. All things are relative."</p>
+<p>"There is no such thing as Absolute Truth. All things are relative."</p>
+
 <style>
 ul {
     list-style-type: none;
@@ -65,7 +66,7 @@ li a:hover {
 <style>
 div {
     background-color: lightgray;
-    width: 500px;
+    width: 525px;
     border: 5px solid white;
     padding: 25px;
     margin: 25px;
@@ -74,7 +75,27 @@ div {
    
 }
 </style>
-<div> Is this all the space being allowed here? We don't have enough money in the budget to expand yet...</div>
+<div> Is this all the space being allowed here? We don't have enough money in the budget to expand yet...
+</div>
 <style>
+div.container {
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+    
+}
+</style>
+<article>
+<h1> Welcome...</h1>
+<font color="white"/>
+<text size; 20px
+<p> There is much power for those who even end up here. You Must be one of the Chosen few.</p>
+<style>
+<div class= "container"
+
+
 </html>
 
